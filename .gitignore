@@ -1,4 +1,7 @@
 test
 train
 valid
+.vscode/
+.ipynb_checkpoints/
+logs/
 
