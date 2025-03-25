@@ -1,3 +1,3 @@
 # Plant-Leaf-Disease-Detection
 
-Deploy Web [Link](https://leaflenss.streamlit.app/)
+Deployed Website [Link](https://leaflenss.streamlit.app/)
