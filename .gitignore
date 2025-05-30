@@ -5,3 +5,4 @@ valid
 .ipynb_checkpoints/
 logs/
 
+trained_plant_disease_model.keras
