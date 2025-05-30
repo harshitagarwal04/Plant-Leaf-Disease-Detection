@@ -101,8 +101,8 @@ elif app_mode == "About":
     st.markdown("""
     <div style='font-size:17px;'>
     <b>Dataset:</b><br>
-    - 87,000+ RGB images of healthy and diseased crop leaves<br>
-    - 38 different classes<br>
+    - 88,000+ RGB images of healthy and diseased crop leaves<br>
+    - 97 different classes<br>
     - 80/20 train-validation split<br>
     - 33 test images for prediction<br>
     <br>
